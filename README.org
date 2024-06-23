@@ -1,0 +1,16 @@
+* Essentials of Programming Languages (EOPL)
+
+** Scheme Chicken
+Set up with Emacs and geiser:
+https://www.reddit.com/r/emacs/comments/nnuapw/geiser_not_sending_correct_code_to_chicken_repl/
+
+** Scheme Guile
+
+** Resources:
+1. let lang: https://github.com/Deanout/letlang
+2. course: https://gustavus.edu/academics/departments/mathematics-computer-science-and-statistics/max/courses/S2000/MCS-287/
+3. reddit https://www.reddit.com/r/ProgrammingLanguages/comments/cs0m4p/books_that_can_help_understanding_eopl_or_better/
+4. chicken: https://wiki.call-cc.org/man/5/The%20User%27s%20Manual
+5. guile: https://www.gnu.org/software/guile/manual/html_node/index.html
+6. setup chicken: https://www.reddit.com/r/emacs/comments/nnuapw/geiser_not_sending_correct_code_to_chicken_repl/
+7. https://github.com/chenyukang/eopl
