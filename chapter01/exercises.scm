@@ -79,10 +79,11 @@
 ;; => ((a c) (a () d))
 
 ;;; FIXME: the following code does not work
-;;; because when mapping substx, it only accepts lists
+;;; because when mapping substx, it only accepts one argument
+;;; yet it in fact needs 3
 (define subst-v2
   (lambda (new old slst)
-    (map substx new old slst)))
+    (map substx slst)))
 
 (define (substx new old slst)
   (cons
